@@ -1,4 +1,7 @@
 /*
+ * 
+ * @author: MrRafalSzymanski
+ * 
  * FUNCTIONAL JAVASCRIPT IS GOOD
  * ───────────────────────────────
  * Hello World
